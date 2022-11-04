@@ -20,14 +20,14 @@ Kalian bisa mendukung bot ini dengan cara
 ├📌 Pulsa : ${p}
 ├📌 ovo : ${o}
 ├📌 Gopay : ${g}
-├📌 Shopay : ${s}
+├📌 Subscribe : https://youtube.com/channel/UCauQ8ous-UOTqj27lEtKUhQ
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 
 Arigatou!
 
 Contact person Owner:
- ࿑ Owner wa.me/62895327934887 ( pemilik bot )`
+ ࿑ Owner wa.me/6283890585717 ( pemilik bot )`
   conn.sendButtonImg(m.chat, fotonya1, ehe, wm, 'Owner', '.owner', m) 
 }
 handler.help = ['donasi']
