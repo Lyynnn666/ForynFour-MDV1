@@ -30,11 +30,11 @@ global.ovo = '_'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
-global.fotonya1 = 'https://telegra.ph/file/c58f43806ef4b7038a7f4.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/c58f43806ef4b7038a7f4.jpg' //ini juga ganti 
-global.ppacc = 'https://telegra.ph/file/a077271ff372545599dbc.jpg'
-global.imgloc = 'https://telegra.ph/file/e6355ade20840c96814ed.jpg'
-global.media = 'https://telegra.ph/file/f209153a54698c43032f7.jpg'
+global.fotonya1 = 'https://telegra.ph/file/f7c316fb43920c60d9277.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/23324a3bc71929ea0ab65.jpg' //ini juga ganti 
+global.ppacc = 'https://telegra.ph/file/b4d7e74c6424d0d2f13de.jpg'
+global.imgloc = 'https://telegra.ph/file/1828366f8c38770f3f0dd.jpg'
+global.media = 'https://telegra.ph/file/f6be4385ec0b79ab44c18.jpg'
 global.ppm = 'https://telegra.ph/file/85f5dd4cfb4fdd9d65cbf.jpg'  // bagian atas all command
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
