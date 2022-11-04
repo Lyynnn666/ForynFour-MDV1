@@ -17,7 +17,7 @@ global.nobot = '_'
 //  URL SOSMED
 global.instagram = '_'
 global.github = '_'
-global.gc = '_'
+global.gc = 'https://chat.whatsapp.com/FBxRRU8ZvxGFCnnD2pdfsg'
 global.web = 'https://youtube.com/channel/UCauQ8ous-UOTqj27lEtKUhQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.saweria = '_'
 
